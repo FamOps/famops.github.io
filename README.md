@@ -1,14 +1,14 @@
-# ⚡ Woofam — Simple & Smart Online Services
+# ⚡ FamOps — Simple & Smart Online Services
 
 > **"복잡한 일상을 더 단순하고 스마트하게"**  
-> Woofam 공식 포털 (`woofam.github.io`)
+> famops 공식 포털 (`famops.github.io`)
 
 ---
 
 ## 🌟 Brand Ecosystem
 
 ### 1. ⚡ 3SEC (3초 라이프 패밀리)
-> 🔗 **[3SEC 공식 브랜드 페이지 바로가기](https://woofam.github.io/3sec/)**
+> 🔗 **[3SEC 공식 브랜드 페이지 바로가기](https://famops.github.io/3sec/)**
 
 - 🍳 **3초 키친 / 레시피**: 냉장고 속 재료로 3초 한 끼 결정
 - ⚡ **3초 가성비 (Value)**: 단품 vs 묶음 최적 유통 채널 소비 공식
@@ -34,5 +34,5 @@
 
 ## 📄 License
 
-© 2026 Woofam. All rights reserved.
+© 2026 famops. All rights reserved.
 

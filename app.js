@@ -1,5 +1,5 @@
 /**
- * Woofam — Minimal Portal & 8-Bit Pixel Human Hurdle Runner Game
+ * FamOps — Minimal Portal & 8-Bit Pixel Human Hurdle Runner Game
  */
 
 document.addEventListener("DOMContentLoaded", () => {
